@@ -4,7 +4,7 @@ import "./globals.css";
 
 export const metadata = {
   title: "Dynamic Blog",
-  description: "Explore the latest tech trends and insights",
+  description: "Explore the latest tech trends with well-written posts",
 };
 
 export default function RootLayout({

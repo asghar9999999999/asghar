@@ -1,14 +1,14 @@
 import Link from "next/link";
 
 const Navbar = () => (
-  <nav className="bg-gray-900 text-white px-6 py-4 flex items-center justify-between">
+  <nav className="bg-gray-900 text-white p-4 flex justify-between items-center">
     <div className="flex items-center">
       <img
-        src="/images/logo.png" // Place your logo in /public/images/
+        src="/images/logo.png"
         alt="Logo"
         className="h-10 w-10 rounded-full mr-3"
       />
-      <span className="text-2xl font-bold">Dynamic Blog</span>
+      <h1 className="text-2xl font-bold">Dynamic Blog</h1>
     </div>
     <ul className="flex space-x-6">
       <li>
