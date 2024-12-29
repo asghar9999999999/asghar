@@ -5,7 +5,7 @@ const Banner = () => (
       Your browser does not support the video tag.
     </video>
     <div className="absolute inset-0 bg-black bg-opacity-50 flex flex-col items-center justify-center text-white">
-      <h1 className="text-5xl font-bold mb-4">Welcome to Dynamic Blog</h1>
+      <h1 className="text-5xl font-bold mb-4">Welcome to Technolgy FAB</h1>
       <p className="text-lg">
         Explore the latest trends in technology and innovation.
       </p>
