@@ -1,5 +1,4 @@
 import Link from "next/link";
-
 const Navbar = () => (
   <nav className="bg-gray-900 text-white p-4 flex justify-between items-center">
     <div className="flex items-center">
